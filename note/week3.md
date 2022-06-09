@@ -143,11 +143,11 @@ x=0.98000 f(x)=-0.00040
 x=0.99000 f(x)=-0.00010
 x=1.00000 f(x)=-0.00000
 ```
-![Pic](https://github.com/brian891005/ai109b/blob/main/Note/%E5%9C%96%E7%89%87/function.jpg)
+![Pic](https://github.com/hung890202/ai110b/blob/master/note/%E5%9C%96%E7%89%87/function.jpg)
 
 * 程式碼
->>二維爬山演算法
->>HillClimbingSimple2.py
+>二維爬山演算法
+>HillClimbingSimple2.py
 ```
 import random
 
@@ -275,7 +275,7 @@ solution:  energy(2.000)=0.000
 ```
 >>以亂數決定其值
 * 圖例
-![Pic](https://github.com/brian891005/ai109b/blob/main/Note/%E5%9C%96%E7%89%87/height.jpg)
+![Pic](https://github.com/hung890202/ai110b/blob/master/note/%E5%9C%96%E7%89%87/height.jpg)
 
 #### 技術
 * 物件導向技巧----->self的應用
