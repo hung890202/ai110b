@@ -12,5 +12,5 @@
 [pytorch](https://github.com/hung890202/ai110b/blob/master/note/week13.md) <br>
 
 
-#### 授權聲明
-[授權申明](https://github.com/hung890202/ai110b/blob/master/note/LICENSE.md)
+#### 授權
+[license](https://github.com/hung890202/ai110b/blob/master/note/LICENSE.md)
