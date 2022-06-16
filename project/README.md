@@ -31,7 +31,7 @@
     * CVCAM ：視訊影象處理模組(一般還需要安裝DirectShow。此模組在2.0之後的版本好像不再包含，而直接使用highgui)。
     * 架構
     
-    ![Pic](https://github.com/brian891005/ai109b/blob/main/Note/%E5%9C%96%E7%89%87/cv2.jpg)
+    ![Pic](https://github.com/hung890202/ai110b/blob/master/note/%E5%9C%96%E7%89%87/cv2.jpg)
 
 * dlib --->神經網路
     * 介紹
@@ -96,7 +96,7 @@ cv2.destroyAllWindows()
 
 * 呈現結果
 
-![Pic](https://github.com/brian891005/ai109b/blob/main/Note/%E5%9C%96%E7%89%87/test.jpg)
+![Pic](https://github.com/hung890202/ai110b/blob/master/note/%E5%9C%96%E7%89%87/test.jpg)
 
 
 * 主程式碼
@@ -134,11 +134,11 @@ cv2.destroyAllWindows()
 
 * 顯示結果
     * test1:
-    ![Pic](https://github.com/brian891005/ai109b/blob/main/Note/%E5%9C%96%E7%89%87/result1.jpg)
+    ![Pic](https://github.com/hung890202/ai110b/blob/master/note/%E5%9C%96%E7%89%87/result1.jpg)
     * test2:
     當圖片過度模糊式，正確率會降低
 
-    ![Pic](https://github.com/brian891005/ai109b/blob/main/Note/%E5%9C%96%E7%89%87/test2.jpg)
+    ![Pic](https://github.com/hung890202/ai110b/blob/master/note/%E5%9C%96%E7%89%87/test2.jpg)
 
 ## 本專案只用於學習所用
-* [LICENSE](https://github.com/brian891005/sp109b/blob/main/Note/授權聲明/README.md)
+* [LICENSE](https://github.com/hung890202/ai110b/blob/master/note/LICENSE.md)
